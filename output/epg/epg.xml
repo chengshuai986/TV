@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251022034223 +0800">
+<tv date="20251022101647 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -4530,6 +4530,24 @@
 	<programme channel="NewTV惊悚悬疑" start="20251022095700 +0800" stop="20251022103700 +0800">
 		<title lang="zh">虾青素推广片4001087099</title>
 	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251022103700 +0800" stop="20251022115000 +0800">
+		<title lang="zh">钟馗归来万世妖灵</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251022115000 +0800" stop="20251022120400 +0800">
+		<title lang="zh">武夷山康养</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251022121900 +0800" stop="20251022134800 +0800">
+		<title lang="zh">民间摆渡人</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251022134800 +0800" stop="20251022142800 +0800">
+		<title lang="zh">营养健康20新</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251022142800 +0800" stop="20251022154800 +0800">
+		<title lang="zh">工厂蛇患</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251022154800 +0800" stop="20251022161800 +0800">
+		<title lang="zh">武夷山康养</title>
+	</programme>
 	<channel id="新疆卫视">
 		<display-name lang="zh">新疆卫视</display-name>
 	</channel>
@@ -7703,6 +7721,24 @@
 	</programme>
 	<programme channel="NewTV动作电影" start="20251022085500 +0800" stop="20251022103500 +0800">
 		<title lang="zh">零点定理</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251022103500 +0800" stop="20251022110400 +0800">
+		<title lang="zh">武夷山康养</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251022110400 +0800" stop="20251022123400 +0800">
+		<title lang="zh">倾城</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251022123400 +0800" stop="20251022131400 +0800">
+		<title lang="zh">营养健康20新</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251022131400 +0800" stop="20251022143400 +0800">
+		<title lang="zh">特工追缉令</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251022143400 +0800" stop="20251022152400 +0800">
+		<title lang="zh">滋得洛夫俄罗斯白桦茸小分子精片-渠道（右）</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251022152400 +0800" stop="20251022164300 +0800">
+		<title lang="zh">扫黑神探</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>

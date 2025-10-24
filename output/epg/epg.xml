@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251024033133 +0800">
+<tv date="20251024101643 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -4471,6 +4471,24 @@
 	<programme channel="NewTV惊悚悬疑" start="20251024100000 +0800" stop="20251024104000 +0800">
 		<title lang="zh">虾青素推广片4001087099</title>
 	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251024104000 +0800" stop="20251024120000 +0800">
+		<title lang="zh">画皮：情灭</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251024120000 +0800" stop="20251024122900 +0800">
+		<title lang="zh">武夷山康养</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251024122900 +0800" stop="20251024135700 +0800">
+		<title lang="zh">猎杀外星人</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251024135700 +0800" stop="20251024143700 +0800">
+		<title lang="zh">营养健康20新</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251024143700 +0800" stop="20251024160000 +0800">
+		<title lang="zh">变异危机</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251024160000 +0800" stop="20251024163000 +0800">
+		<title lang="zh">武夷山康养</title>
+	</programme>
 	<channel id="新疆卫视">
 		<display-name lang="zh">新疆卫视</display-name>
 	</channel>
@@ -7545,6 +7563,24 @@
 	</programme>
 	<programme channel="NewTV动作电影" start="20251024095300 +0800" stop="20251024102200 +0800">
 		<title lang="zh">武夷山康养</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251024102200 +0800" stop="20251024114400 +0800">
+		<title lang="zh">黑狱</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251024114400 +0800" stop="20251024122400 +0800">
+		<title lang="zh">营养健康20新</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251024122400 +0800" stop="20251024132900 +0800">
+		<title lang="zh">猎心之迷毒之罪</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251024132900 +0800" stop="20251024141900 +0800">
+		<title lang="zh">滋得洛夫俄罗斯白桦茸小分子精片-渠道（右）</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251024141900 +0800" stop="20251024154600 +0800">
+		<title lang="zh">传话的人</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251024154600 +0800" stop="20251024162100 +0800">
+		<title lang="zh">美国云杉新一代小分子黑金活脑灵（跨境）-渠道（右）</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>

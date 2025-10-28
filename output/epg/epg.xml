@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251028034116 +0800">
+<tv date="20251028101602 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -6516,6 +6516,21 @@
 	<programme channel="NewTV动作电影" start="20251028100800 +0800" stop="20251028121100 +0800">
 		<title lang="zh">反抗军</title>
 	</programme>
+	<programme channel="NewTV动作电影" start="20251028121100 +0800" stop="20251028124100 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251028124100 +0800" stop="20251028140900 +0800">
+		<title lang="zh">火线追凶2之爱本无罪</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251028140900 +0800" stop="20251028143900 +0800">
+		<title lang="zh">宝岛台湾高粱酒</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251028143900 +0800" stop="20251028155900 +0800">
+		<title lang="zh">踏破浮屠</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251028155900 +0800" stop="20251028163400 +0800">
+		<title lang="zh">CRESIOENM钛健康餐具套组-渠道（右）</title>
+	</programme>
 	<channel id="NewTV惊悚悬疑">
 		<display-name lang="zh">NewTV惊悚悬疑</display-name>
 	</channel>
@@ -6542,6 +6557,24 @@
 	</programme>
 	<programme channel="NewTV惊悚悬疑" start="20251028093200 +0800" stop="20251028101700 +0800">
 		<title lang="zh">康企红蓝光治疗仪劲爆组-渠道（右）</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251028101700 +0800" stop="20251028114400 +0800">
+		<title lang="zh">迷毒之天命圈</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251028114400 +0800" stop="20251028122400 +0800">
+		<title lang="zh">营养健康20新</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251028122400 +0800" stop="20251028133700 +0800">
+		<title lang="zh">湘西诡事（4K）</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251028133700 +0800" stop="20251028141700 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251028141700 +0800" stop="20251028153800 +0800">
+		<title lang="zh">迷毒之东风破</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251028153800 +0800" stop="20251028160800 +0800">
+		<title lang="zh">宝岛台湾高粱酒</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>

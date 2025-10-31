@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251031034236 +0800">
+<tv date="20251031101552 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -4531,6 +4531,21 @@
 	<programme channel="NewTV惊悚悬疑" start="20251031101000 +0800" stop="20251031113600 +0800">
 		<title lang="zh">落花洞新娘</title>
 	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251031113600 +0800" stop="20251031121600 +0800">
+		<title lang="zh">太空骨王骨胶原新版</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251031121600 +0800" stop="20251031133600 +0800">
+		<title lang="zh">画皮：情灭</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251031133600 +0800" stop="20251031141600 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251031141600 +0800" stop="20251031153900 +0800">
+		<title lang="zh">变异危机</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251031153900 +0800" stop="20251031161400 +0800">
+		<title lang="zh">CRESIOENM钛健康餐具套组-渠道（右）</title>
+	</programme>
 	<channel id="新疆卫视">
 		<display-name lang="zh">新疆卫视</display-name>
 	</channel>
@@ -7680,6 +7695,24 @@
 	</programme>
 	<programme channel="NewTV动作电影" start="20251031094900 +0800" stop="20251031102900 +0800">
 		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251031102900 +0800" stop="20251031120100 +0800">
+		<title lang="zh">虚拟世界</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251031120100 +0800" stop="20251031123000 +0800">
+		<title lang="zh">武夷山康养</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251031123000 +0800" stop="20251031140200 +0800">
+		<title lang="zh">独立日大电影</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251031140200 +0800" stop="20251031143200 +0800">
+		<title lang="zh">宝岛台湾高粱酒</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251031143200 +0800" stop="20251031154300 +0800">
+		<title lang="zh">夺命巨鳄</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251031154300 +0800" stop="20251031161200 +0800">
+		<title lang="zh">武夷山康养</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>

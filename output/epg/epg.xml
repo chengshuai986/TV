@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251104033957 +0800">
+<tv date="20251104101821 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -4490,6 +4490,21 @@
 	<programme channel="NewTV惊悚悬疑" start="20251104095300 +0800" stop="20251104103300 +0800">
 		<title lang="zh">虾青素推广片4001087099</title>
 	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251104103300 +0800" stop="20251104121300 +0800">
+		<title lang="zh">恶意</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251104121300 +0800" stop="20251104124300 +0800">
+		<title lang="zh">宝岛台湾高粱酒</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251104124300 +0800" stop="20251104140300 +0800">
+		<title lang="zh">工厂蛇患</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251104140300 +0800" stop="20251104143300 +0800">
+		<title lang="zh">美丽人生</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251104143300 +0800" stop="20251104160600 +0800">
+		<title lang="zh">侠捕之夺命红莲</title>
+	</programme>
 	<channel id="新疆卫视">
 		<display-name lang="zh">新疆卫视</display-name>
 	</channel>
@@ -7780,6 +7795,21 @@
 	</programme>
 	<programme channel="NewTV动作电影" start="20251104101900 +0800" stop="20251104114700 +0800">
 		<title lang="zh">火线追凶2之同名为仇</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251104114700 +0800" stop="20251104121700 +0800">
+		<title lang="zh">宝岛台湾高粱酒</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251104121700 +0800" stop="20251104134500 +0800">
+		<title lang="zh">战斧行动</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251104134500 +0800" stop="20251104141500 +0800">
+		<title lang="zh">美丽人生</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251104141500 +0800" stop="20251104154600 +0800">
+		<title lang="zh">举起手来2：追击阿多丸号</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251104154600 +0800" stop="20251104161600 +0800">
+		<title lang="zh">健康推荐</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>

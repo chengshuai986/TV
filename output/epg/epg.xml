@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251105034132 +0800">
+<tv date="20251105101541 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -6528,6 +6528,24 @@
 	<programme channel="NewTV动作电影" start="20251105093800 +0800" stop="20251105101800 +0800">
 		<title lang="zh">营养健康20新</title>
 	</programme>
+	<programme channel="NewTV动作电影" start="20251105101800 +0800" stop="20251105114600 +0800">
+		<title lang="zh">复仇者格林：战事再起</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251105114600 +0800" stop="20251105121600 +0800">
+		<title lang="zh">美丽人生</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251105121600 +0800" stop="20251105135400 +0800">
+		<title lang="zh">机械玩家</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251105135400 +0800" stop="20251105150200 +0800">
+		<title lang="zh">王牌保镖之疾速追击</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251105150200 +0800" stop="20251105154200 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251105154200 +0800" stop="20251105172700 +0800">
+		<title lang="zh">追凶十九年</title>
+	</programme>
 	<channel id="NewTV惊悚悬疑">
 		<display-name lang="zh">NewTV惊悚悬疑</display-name>
 	</channel>
@@ -6560,6 +6578,21 @@
 	</programme>
 	<programme channel="NewTV惊悚悬疑" start="20251105100200 +0800" stop="20251105104200 +0800">
 		<title lang="zh">营养健康20新</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251105104200 +0800" stop="20251105115700 +0800">
+		<title lang="zh">怪谈五命河</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251105115700 +0800" stop="20251105122700 +0800">
+		<title lang="zh">美丽人生</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251105122700 +0800" stop="20251105135700 +0800">
+		<title lang="zh">绑架游戏</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251105135700 +0800" stop="20251105142700 +0800">
+		<title lang="zh">健康推荐</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251105142700 +0800" stop="20251105160100 +0800">
+		<title lang="zh">男狐聊斋3</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>

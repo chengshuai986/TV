@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251117034651 +0800">
+<tv date="20251117101945 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -4418,6 +4418,18 @@
 	<programme channel="NewTV惊悚悬疑" start="20251117101700 +0800" stop="20251117113900 +0800">
 		<title lang="zh">巨蟒1</title>
 	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251117113900 +0800" stop="20251117123000 +0800">
+		<title lang="zh">水溶植物欧米伽3微囊粉</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251117123000 +0800" stop="20251117135500 +0800">
+		<title lang="zh">挑灯斩蛇录</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251117135500 +0800" stop="20251117143900 +0800">
+		<title lang="zh">伏湿丸</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251117143900 +0800" stop="20251117160200 +0800">
+		<title lang="zh">兴安岭猎人传说</title>
+	</programme>
 	<channel id="新疆卫视">
 		<display-name lang="zh">新疆卫视</display-name>
 	</channel>
@@ -7744,6 +7756,21 @@
 	</programme>
 	<programme channel="NewTV动作电影" start="20251117100600 +0800" stop="20251117104600 +0800">
 		<title lang="zh">营养健康40</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251117104600 +0800" stop="20251117121000 +0800">
+		<title lang="zh">空中世界二战</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251117121000 +0800" stop="20251117130000 +0800">
+		<title lang="zh">水溶植物欧米伽3微囊粉</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251117130000 +0800" stop="20251117143300 +0800">
+		<title lang="zh">变体</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251117143300 +0800" stop="20251117151700 +0800">
+		<title lang="zh">伏湿丸</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251117151700 +0800" stop="20251117164100 +0800">
+		<title lang="zh">纵横千里之一发千钧</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>

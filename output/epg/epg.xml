@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251120034110 +0800">
+<tv date="20251120101500 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -4455,6 +4455,21 @@
 	<programme channel="NewTV惊悚悬疑" start="20251120095400 +0800" stop="20251120104400 +0800">
 		<title lang="zh">人民国肽健行固力维骨肌修复肽</title>
 	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251120104400 +0800" stop="20251120120300 +0800">
+		<title lang="zh">食人岛</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251120120300 +0800" stop="20251120124300 +0800">
+		<title lang="zh">营养健康40</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251120124300 +0800" stop="20251120140200 +0800">
+		<title lang="zh">倩狐之京卫怪谈</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251120140200 +0800" stop="20251120144200 +0800">
+		<title lang="zh">营养健康40</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251120144200 +0800" stop="20251120161200 +0800">
+		<title lang="zh">黑楼惊魂</title>
+	</programme>
 	<channel id="新疆卫视">
 		<display-name lang="zh">新疆卫视</display-name>
 	</channel>
@@ -7679,6 +7694,21 @@
 	</programme>
 	<programme channel="NewTV动作电影" start="20251120095700 +0800" stop="20251120104700 +0800">
 		<title lang="zh">人民国肽健行固力维骨肌修复肽</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251120104700 +0800" stop="20251120121500 +0800">
+		<title lang="zh">复仇者格林：战事再起</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251120121500 +0800" stop="20251120125500 +0800">
+		<title lang="zh">营养健康40</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251120125500 +0800" stop="20251120142300 +0800">
+		<title lang="zh">火线追凶2之爱本无罪</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251120142300 +0800" stop="20251120150300 +0800">
+		<title lang="zh">营养健康40</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251120150300 +0800" stop="20251120163100 +0800">
+		<title lang="zh">火线追凶2之黑色玫瑰</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>

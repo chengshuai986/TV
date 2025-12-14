@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251214035825 +0800">
+<tv date="20251214101405 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -6435,6 +6435,21 @@
 	<programme channel="NewTV动作电影" start="20251214101100 +0800" stop="20251214113100 +0800">
 		<title lang="zh">踏破浮屠</title>
 	</programme>
+	<programme channel="NewTV动作电影" start="20251214113100 +0800" stop="20251214120100 +0800">
+		<title lang="zh">健康推荐渠道</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251214120100 +0800" stop="20251214132900 +0800">
+		<title lang="zh">火线追凶2之爱本无罪</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251214132900 +0800" stop="20251214141300 +0800">
+		<title lang="zh">伏湿丸</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251214141300 +0800" stop="20251214154400 +0800">
+		<title lang="zh">血战残阳</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251214154400 +0800" stop="20251214161400 +0800">
+		<title lang="zh">健康推荐渠道</title>
+	</programme>
 	<channel id="NewTV惊悚悬疑">
 		<display-name lang="zh">NewTV惊悚悬疑</display-name>
 	</channel>
@@ -6470,6 +6485,21 @@
 	</programme>
 	<programme channel="NewTV惊悚悬疑" start="20251214102500 +0800" stop="20251214113700 +0800">
 		<title lang="zh">钟馗归来万世妖灵</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251214113700 +0800" stop="20251214121600 +0800">
+		<title lang="zh">男士营养健康推荐</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251214121600 +0800" stop="20251214140300 +0800">
+		<title lang="zh">兴安岭猎人传说2轮回森林</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251214140300 +0800" stop="20251214143300 +0800">
+		<title lang="zh">健康推荐3</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251214143300 +0800" stop="20251214155000 +0800">
+		<title lang="zh">寄生怪</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251214155000 +0800" stop="20251214162900 +0800">
+		<title lang="zh">男士营养健康推荐</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>

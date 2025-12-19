@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251219035522 +0800">
+<tv date="20251219101531 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -6690,6 +6690,21 @@
 	<programme channel="NewTV动作电影" start="20251219100900 +0800" stop="20251219104800 +0800">
 		<title lang="zh">男士营养健康推荐</title>
 	</programme>
+	<programme channel="NewTV动作电影" start="20251219104800 +0800" stop="20251219122400 +0800">
+		<title lang="zh">军火厂</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251219122400 +0800" stop="20251219130400 +0800">
+		<title lang="zh">益健堂半导体激光表</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251219130400 +0800" stop="20251219141500 +0800">
+		<title lang="zh">夺命巨鳄</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251219141500 +0800" stop="20251219145400 +0800">
+		<title lang="zh">男士营养健康推荐</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251219145400 +0800" stop="20251219160900 +0800">
+		<title lang="zh">维和冲锋：绝境求生</title>
+	</programme>
 	<channel id="NewTV惊悚悬疑">
 		<display-name lang="zh">NewTV惊悚悬疑</display-name>
 	</channel>
@@ -6722,6 +6737,21 @@
 	</programme>
 	<programme channel="NewTV惊悚悬疑" start="20251219102900 +0800" stop="20251219115200 +0800">
 		<title lang="zh">变异危机</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251219115200 +0800" stop="20251219122200 +0800">
+		<title lang="zh">健康推荐3</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251219122200 +0800" stop="20251219134500 +0800">
+		<title lang="zh">兴安岭猎人传说</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251219134500 +0800" stop="20251219142400 +0800">
+		<title lang="zh">男士营养健康推荐</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251219142400 +0800" stop="20251219154600 +0800">
+		<title lang="zh">巨蟒1</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251219154600 +0800" stop="20251219162600 +0800">
+		<title lang="zh">液体海参</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>

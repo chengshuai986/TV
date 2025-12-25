@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251225035806 +0800">
+<tv date="20251225101527 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -6597,6 +6597,18 @@
 	<programme channel="NewTV动作电影" start="20251225095200 +0800" stop="20251225112300 +0800">
 		<title lang="zh">英雄泪</title>
 	</programme>
+	<programme channel="NewTV动作电影" start="20251225112300 +0800" stop="20251225115300 +0800">
+		<title lang="zh">健康推荐3</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251225115300 +0800" stop="20251225132200 +0800">
+		<title lang="zh">鲨卷风5：全球鲨暴</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251225132200 +0800" stop="20251225135200 +0800">
+		<title lang="zh">健康推荐3</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251225135200 +0800" stop="20251225155300 +0800">
+		<title lang="zh">潜伏者</title>
+	</programme>
 	<channel id="NewTV惊悚悬疑">
 		<display-name lang="zh">NewTV惊悚悬疑</display-name>
 	</channel>
@@ -6632,6 +6644,24 @@
 	</programme>
 	<programme channel="NewTV惊悚悬疑" start="20251225094300 +0800" stop="20251225110100 +0800">
 		<title lang="zh">扫黑神探</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251225110100 +0800" stop="20251225113100 +0800">
+		<title lang="zh">健康推荐3</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251225113100 +0800" stop="20251225130100 +0800">
+		<title lang="zh">生死交锋</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251225130100 +0800" stop="20251225133100 +0800">
+		<title lang="zh">健康推荐3</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251225133100 +0800" stop="20251225145500 +0800">
+		<title lang="zh">疾速反击</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251225145500 +0800" stop="20251225152500 +0800">
+		<title lang="zh">健康推荐3</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251225152500 +0800" stop="20251225164300 +0800">
+		<title lang="zh">古董局中局之国画密码</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>

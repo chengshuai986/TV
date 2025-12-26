@@ -284,50 +284,63 @@ pipenv run ui
 
 ## Docker
 
-### 1. 拉取镜像
+### 1. Compose部署（推荐）
+
+下载[docker-compose.yml](../docker-compose.yml)或复制内容创建（内部参数可按需更改），在文件所在路径下运行以下命令即可部署：
+
+```bash
+docker compose up -d
+```
+
+### 2. 手动命令部署
+
+#### （1）拉取镜像
 
 ```bash
 docker pull guovern/iptv-api:latest
 ```
 
-🚀 代理加速（推荐国内用户使用）：
+🚀 代理加速（若拉取失败可以使用该命令，但有可能拉取的是旧版本）：
 
 ```bash
 docker pull docker.1ms.run/guovern/iptv-api:latest
 ```
 
-### 2. 运行容器
+#### （2）运行容器
 
 ```bash
-docker run -d -p 8000:8000 guovern/iptv-api
+docker run -d -p 80:8080 guovern/iptv-api
 ```
 
-#### 挂载（推荐）：
+**环境变量：**
 
-实现宿主机文件与容器文件同步，修改模板、配置、获取更新结果文件可直接在宿主机文件夹下操作
+| 变量              | 描述                                | 默认值       |
+|:----------------|:----------------------------------|:----------|
+| PUBLIC_DOMAIN   | 公网域名或IP地址，决定外部访问或推流结果的Host地址      | 127.0.0.1 |
+| PUBLIC_PORT     | 公网端口，设置为映射后的端口，决定外部访问地址和推流结果地址的端口 | 80        |
+| NGINX_HTTP_PORT | HTTP服务端口，外部访问需要映射该端口              | 8080      |
 
-以宿主机路径/etc/docker 为例：
+如果需要修改环境变量，在上述运行命令后添加以下参数：
 
 ```bash
--v /etc/docker/config:/iptv-api/config
--v /etc/docker/output:/iptv-api/output
+# 修改公网域名
+-e PUBLIC_DOMAIN=your.domain.com
+# 修改公网端口
+-e PUBLIC_PORT=80
 ```
 
-> [!WARNING]\
-> 如果重新拉取镜像进行更新版本后，涉及到配置文件变更或增加新配置时，务必覆盖主机的旧配置文件（config目录），因为主机的配置文件是无法自动更新的，否则容器还是以旧配置运行。
+除了以上环境变量，还支持通过环境变量覆盖配置文件中的[配置项](../docs/config.md)
 
-#### 环境变量：
+**挂载：** 实现宿主机文件与容器文件同步，修改模板、配置、获取更新结果文件可直接在宿主机文件夹下操作，在上述运行命令后添加以下参数
 
-| 变量              | 描述             | 默认值  |
-|:----------------|:---------------|:-----|
-| APP_HOST        | 服务host地址       | 本机IP |
-| APP_PORT        | 服务端口           | 8000 |
-| NGINX_HTTP_PORT | Nginx HTTP服务端口 | 8080 |
-| NGINX_RTMP_PORT | Nginx RTMP服务端口 | 1935 |
+```bash
+# 挂载配置目录
+-v /iptv-api/config:/iptv-api/config
+# 挂载结果目录
+-v /iptv-api/output:/iptv-api/output
+```
 
-除了以上环境变量，还支持通过环境变量覆盖配置文件中的[配置项](./config.md)
-
-### 3. 更新结果
+#### 3. 更新结果
 
 | 接口              | 描述          |
 |:----------------|:------------|
@@ -346,20 +359,22 @@ docker run -d -p 8000:8000 guovern/iptv-api
 | /log/statistic  | 统计结果的日志     |
 | /log/nomatch    | 未匹配频道的日志    |
 
-- RTMP 推流：
+**RTMP 推流：**
 
 > [!NOTE]
-> 1. 开启推流后，默认会将获取到的接口（如订阅源）进行推流
-> 2. 如果需要对本地视频源进行推流，可在`config`目录下新建`hls`文件夹
-> 3. 将以`频道名称命名`的视频文件放入其中，程序会自动推流到对应的频道中
-> 4. 可访问 http://localhost:8080/stat 查看实时推流状态统计数据
+> 1. 如果是服务器部署，请务必配置`PUBLIC_DOMAIN`环境变量为服务器域名或IP地址，`PUBLIC_PORT`环境变量为公网端口，否则推流地址无法访问
+> 2. 开启推流后，默认会将获取到的接口（如订阅源）进行推流
+> 3. 如果需要对本地视频源进行推流，可在`config`目录下新建`hls`文件夹，将以`频道名称命名`的视频文件放入其中，程序会自动推流到对应的频道中
 
 | 推流接口          | 描述           |
 |:--------------|:-------------|
 | /hls          | 推流接口         |
 | /hls/txt      | 推流txt接口      |
 | /hls/m3u      | 推流m3u接口      |
+| /hls/ipv4     | 推流ipv4 默认接口  |
+| /hls/ipv6     | 推流ipv6 默认接口  |
 | /hls/ipv4/txt | 推流ipv4 txt接口 |
 | /hls/ipv4/m3u | 推流ipv4 m3u接口 |
 | /hls/ipv6/txt | 推流ipv6 txt接口 |
 | /hls/ipv6/m3u | 推流ipv6 m3u接口 |
+| /stat         | 推流状态统计接口     |
